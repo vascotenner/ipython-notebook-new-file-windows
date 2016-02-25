@@ -1,2 +1,2 @@
-cp ipython-notebook.ipynb %Userprofile%\Templates\
+copy ipython-notebook.ipynb %Userprofile%\Templates\
 regedit new-ipython-notebook.reg
